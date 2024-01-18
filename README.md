@@ -1,5 +1,7 @@
-✨ Аналитик данных | финансовый аналитик
-✨ Посмотреть мое резюме [resume](https://docs.google.com/document/d/1dPsIcYRTzDHTLgkWEDVtsKrrgO6dSw_fzccNaqDNeMY/edit?usp=sharing)
+✨ Аналитик данных | финансовый аналитик  
+
+✨ Посмотреть мое резюме [resume](https://docs.google.com/document/d/1dPsIcYRTzDHTLgkWEDVtsKrrgO6dSw_fzccNaqDNeMY/edit?usp=sharing)  
+
 ✨ Люблю неспешное чтение чего-нибудь полезного для ума
 
 <!--
