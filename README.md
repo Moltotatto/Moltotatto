@@ -15,6 +15,12 @@
   |Название проекта   | Описание           |Стек технологий       |
   |:------------------|:-------------------|:---------------------|
   |1.	HR Data cleaning|Очистка данных. В dataset должны остаться вакансии только для аналитиков данных|Python, Pandas, Numpy |
+
+
+  [
+{"header": "Имя", "sortable": "true", "dataIndex": "title"},
+{"header": "Изображение", "width": "80", "sortable": "false", "dataIndex": "image","renderer": "this.renderImage"}
+]
                     
                         
   
