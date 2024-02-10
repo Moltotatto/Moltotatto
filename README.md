@@ -1,4 +1,4 @@
-✨ Аналитик данных | финансовый аналитик  
+✨ Аналитик данных   
 
 ✨ Посмотреть мое резюме [resume](https://docs.google.com/document/d/1dPsIcYRTzDHTLgkWEDVtsKrrgO6dSw_fzccNaqDNeMY/edit?usp=sharing)  
 
